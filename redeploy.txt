@@ -7,5 +7,7 @@ bash
 Копировать
 Редактировать
 git add .
-git commit -m "Updated hero section"
+git commit -m "Updated errors for building"
+git branch -M main
+git remote add origin https://github.com/batyok32/razvita.git
 git push

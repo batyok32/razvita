@@ -25,7 +25,7 @@ export const metadata = {
     description:
         "Practical tech courses in programming, cybersecurity, and app development — designed for real-world success. Learn in small groups, guided by experts.",
     icons: {
-        icon: "/favicon.ico",
+        icon: "/favicon2.ico",
         shortcut: "/favicon-32x32.png",
         apple: "/apple-touch-icon.png",
     },
