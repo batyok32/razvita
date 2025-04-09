@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: "https://yourdomain.com", // Replace with your actual domain
+    siteUrl: "https://razvita.com", // Replace with your actual domain
     generateRobotsTxt: true, // (Optional) Generates robots.txt file
     changefreq: "daily",
     priority: 0.7,
