@@ -7,7 +7,11 @@ bash
 Копировать
 Редактировать
 git add .
-git commit -m "Updated errors for building"
+git commit -m "Added sitemap"
 git branch -M main
 git remote add origin https://github.com/batyok32/razvita.git
 git push
+
+
+
+And the favicon.ico font family is Leckerily One
