@@ -1,0 +1,11 @@
+🌟 6. To redeploy
+Every time you push to GitHub, Vercel auto-deploys your changes.
+
+Example:
+
+bash
+Копировать
+Редактировать
+git add .
+git commit -m "Updated hero section"
+git push

@@ -3,6 +3,13 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
+import "../public/styles/icon.min.css";
+import "../public/styles/vendors.min.css";
+
+import "../public/styles/style.css";
+import "../public/styles/responsive.css";
+import "../public/demos/elearning/elearning.css";
+
 const geistSans = Inter({
     variable: "--font-geist-sans",
     subsets: ["latin"],
@@ -52,11 +59,11 @@ export default function RootLayout({ children }) {
                 /> */}
                 {/* <link rel="apple-touch-icon" href="/apple-touch-icon.png" /> */}
 
-                <link rel="stylesheet" href="/css/vendors.min.css" />
+                {/* <link rel="stylesheet" href="/css/vendors.min.css" />
                 <link rel="stylesheet" href="/css/icon.min.css" />
                 <link rel="stylesheet" href="/css/style.css" />
                 <link rel="stylesheet" href="/css/responsive.css" />
-                <link rel="stylesheet" href="/demos/elearning/elearning.css" />
+                <link rel="stylesheet" href="/demos/elearning/elearning.css" /> */}
             </head>
             <body
                 className={`${geistSans.variable} ${geistMono.variable}`}

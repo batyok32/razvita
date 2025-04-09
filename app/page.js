@@ -520,8 +520,8 @@ export default function Home() {
                         <div className="row justify-content-center">
                             <div className="col-12 text-center mt-5">
                                 <span className="fs-20 text-dark-gray fw-500 ls-minus-05px">
-                                    We help you find the perfect tutor. It's
-                                    completely free.{" "}
+                                    We help you find the perfect tutor.
+                                    It&apos;s completely free.{" "}
                                     <Link
                                         href="/courses"
                                         className="fw-600 text-dark-gray"
